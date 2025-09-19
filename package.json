@@ -1,0 +1,21 @@
+{
+  "name": "pwi-guilherme.gomes",
+  "version": "1.0.0",
+  "description": "Repositório para armazenamento das aulas de desenvolvimento web \r Passos a se fazer para execução correta do aplicativo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilherme-gomess/pwi-Guilherme.gomes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Guilherme-gomess/pwi-Guilherme.gomes/issues"
+  },
+  "homepage": "https://github.com/Guilherme-gomess/pwi-Guilherme.gomes#readme"
+}
